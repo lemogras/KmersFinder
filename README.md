@@ -11,7 +11,7 @@ it still requires more ram storage for files larger than 1 GB.
 The program can be run via command line:
 ./KmersFinder_Time FileName k f
 
-File Name : The FASTQ File
+FileName : The FASTQ File
 k : Lenght of k-mers
 f : Most frequent f k-mers
 
